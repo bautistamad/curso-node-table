@@ -1,6 +1,6 @@
 # Notas:
 
-First programm in node
+First program in node
 
 ```
 Opciones:
